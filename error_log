@@ -1,0 +1,8 @@
+[08-Nov-2018 04:43:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/shiyihua/public_html/Arbiter/details.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiyihua/public_html/Arbiter/details.php on line 34
+[08-Nov-2018 04:44:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/shiyihua/public_html/Arbiter/details.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/shiyihua/public_html/Arbiter/details.php on line 34
